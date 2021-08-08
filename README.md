@@ -23,36 +23,36 @@
 
 ■初期化
 
-```bash
+```
 terraform init
 ```
 
 ■フォーマット整形
 
-```bash
+```
 terraform fmt
 ```
 
 ■設定ファイルのバリエーション
 
-```bash
+```
 terraform validate
 ```
 
 ■デプロイ
 
-```bash
+```
 terraform apply
 ```
 
 ■状態の確認
 
-```bash
+```
 terraform show
 ```
 
 ■作成したリソースの破棄
 
-```bash
+```
 terraform destroy
 ```
